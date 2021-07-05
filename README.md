@@ -15,6 +15,7 @@ Write a command that prints out the string “hello, world”. Extra credit: As 
 
 echo "Hello, world"
 write-out 'Hello, world'
+write-out Hello, world
 
 ## 2: Cleaning up
 
