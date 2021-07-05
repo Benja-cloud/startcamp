@@ -44,12 +44,12 @@ Answer: cd ..
 ## 6: Creating files
 
 Create an empty file called file01 in the lab directory. 
-Answer: dir file01
+Answer: new-item file01
 
 ## 7: Deleting directories
 
 What is the command used to remove a directory named **food** and everything inside it. 
-Answer: del food
+Answer: rm food
 # Part C - Github 
 
 ## 8: Download the GitHub desktop application
