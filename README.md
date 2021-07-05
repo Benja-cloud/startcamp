@@ -5,7 +5,7 @@
 
 Go to [github.com](https://github.com/) and create an account. After you have verified your email, create an empty repository in your new account, and name it **bootcamp**
 
-Answer: JBMkenya
+Answer: https://github.com/JBMkenya/bootcamp
 # Part B - Terminal Commands
   
 
@@ -13,14 +13,14 @@ Answer: JBMkenya
 
 Write a command that prints out the string “hello, world”. Extra credit: As in Listing 1, do it two different ways, both with and without using quotation marks.
 
-print("Hello, world")
-print(Hello, world)
+echo "Hello, world"
+write-out 'Hello, world'
 
 ## 2: Cleaning up
 
 Clear the contents of the current tab.
 
-
+Answer: type command clear and press enter
 ## 3: Listing
 
 What’s the command to list all the files (and directories) on your Desktop directory?
@@ -31,8 +31,8 @@ Answer: dir
 
 Make the directory **bootcamp** on your Desktop and, within it, the directory **labs** (i.e., ~/Desktop/bootcamp/labs).
 
-Answer: mkdir bootcamp
-        mkdir 
+Answer: mkdir ~/Desktop/bootcamp/labs
+         
         
 ## 5: Navigating directories
 
