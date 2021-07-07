@@ -1,7 +1,6 @@
-a = 33
-	b = 200
+x = 33
+y = 200
 	
-	if b > a:
-		print("b is greater than a")
-	elif a == b
-		print("a and b are equal")
+if i in range(4, 11):
+		print(str(i) + 'th Hello')
+ 
