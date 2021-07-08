@@ -1,17 +1,10 @@
+#compose a program that takes three integer command-line arguments and
+#writes 'equal' if all three are equal and 'not equal', otherwise.
+num1 = int(input('Enter the first number:  '))
+num2 = int(input('Enter the second number:  '))
+num3 = int(input('Enter the third number:  '))
 
-a = 1
-a = a + a
-a = a + a
-a = a + a
-a = True
-a = not a
-a = not a
-a = not a
-a = 2
-a = a * a
-a = a * a
-a = a * a
-
-print (a)
-
-#the answer when the above code is run is 256
+if num1 == num2 == num3:
+    print('Equal')
+else:
+    print('Not Equal')

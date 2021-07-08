@@ -1,4 +1,9 @@
-#can i use matching double quotes for string literala instead of single quotes
-print("Hello, world!")
-print('Hello, world!')
-#Answer:Yes. when the above code is run, both give a result.
+#can I leave out the collon in an if,while or for statement? YES/NO
+# Answer: NO
+# leaving the colon leads to a syntax error
+
+for i in range(8)
+    print(i)
+
+#running the code above validates that
+

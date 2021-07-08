@@ -1,10 +1,9 @@
-#is there a difference between = and ==
-# Answer: Yes there is a difference
-# the following demonstrates
+#should i use tab characters to indent my code? YES/NO
+#Answer:YES. python is sensitive to indentation.
+#use indetation where required. tab key provides uniform indenting
 
-a=1
-b=3
-a == b
-# type the following in cmd and run using python
-#the result for a==b will give true as the answer
-#this means '=' was used to asign values yet '==' was used for comparison
+for a in range(4):
+print(a)
+
+#In code above print(a) is the component of the for condition
+#its sntatically correct to indent it for it to execute desirably
