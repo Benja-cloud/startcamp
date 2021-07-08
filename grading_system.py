@@ -18,6 +18,6 @@ elif num<64 and num >60:
 elif num<59 and num >55:
     print("you got grade D")
 else: 
-    print("you got failed")
+    print("you FAILED")
 
 
