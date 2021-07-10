@@ -18,7 +18,7 @@ y = 1.2
 z = 3.8909
 g = "My name is Brant" 
 h = "@"
-
+y == z
 print(type(x))
 print(type(y))
 print(type(z))
