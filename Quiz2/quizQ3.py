@@ -6,4 +6,4 @@ for a in range(4):
 print(a)
 
 #In code above print(a) is the component of the for condition
-#its sntatically correct to indent it for it to execute desirably
+#its syntatically correct to indent it for it to execute desirably
