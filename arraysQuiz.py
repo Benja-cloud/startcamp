@@ -22,7 +22,7 @@ for i in range(10):
 for v in a:
     stdio.writeIn(v)
 
-#Answer:
+#Answer:Pythn does not accomodate
 
 #what is a[] after executing the following code fragment
 n = 10
